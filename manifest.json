@@ -11,13 +11,13 @@
   "dir": "rtl",
   "icons": [
     {
-      "src": "/for-my-bro-/icon-192.png",
+      "src": "https://mohamadalighane.github.io/for-my-bro-/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "/for-my-bro-/icon-512.jpeg",
+      "src": "https://mohamadalighane.github.io/for-my-bro-/icon-512.jpeg",
       "sizes": "512x512",
       "type": "image/jpeg",
       "purpose": "any maskable"
