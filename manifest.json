@@ -2,25 +2,26 @@
   "name": "برنامه‌ریزی روزانه",
   "short_name": "برنامه‌ریز",
   "description": "برنامه‌ریز روزانه شخصی",
-  "start_url": "/for-my-bro-/",
-  "scope": "/for-my-bro-/",
+  "start_url": "https://mohamadalighane.github.io/for-my-bro-/",
+  "scope": "https://mohamadalighane.github.io/for-my-bro-/",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#000000",
+  "orientation": "portrait",
+  "background_color": "#0f0c29",
+  "theme_color": "#0f0c29",
   "lang": "fa",
   "dir": "rtl",
   "icons": [
     {
-      "src": "https://mohamadalighane.github.io/for-my-bro-/icon-192.png",
+      "src": "icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
-      "purpose": "any"
+      "purpose": "any maskable"
     },
     {
-      "src": "https://mohamadalighane.github.io/for-my-bro-/icon-512.png",
+      "src": "icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "maskable"
+      "purpose": "any maskable"
     }
   ]
 }
