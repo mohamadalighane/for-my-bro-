@@ -1,11 +1,27 @@
 {
-  "background_color": "#ffffff",
-  "dir": "ltr",
+  "name": "برنامه‌ریزی روزانه",
+  "short_name": "برنامه‌ریز",
+  "description": "برنامه‌ریز روزانه شخصی",
+  "start_url": "/for-my-bro-/",
+  "scope": "/for-my-bro-/",
   "display": "standalone",
-  "name": "mohamadalighane.github",
-  "orientation": "any",
-  "scope": "/",
-  "short_name": "mohamadalighane.github",
-  "start_url": "/",
-  "theme_color": "#ffffff"
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "lang": "fa",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
 }
