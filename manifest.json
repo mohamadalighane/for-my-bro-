@@ -11,9 +11,9 @@
   "dir": "rtl",
   "icons": [
     {
-      "src": "/for-my-bro-/icon-192.jpeg",
+      "src": "/for-my-bro-/icon-192.png",
       "sizes": "192x192",
-      "type": "image/jpeg",
+      "type": "image/png",
       "purpose": "any maskable"
     },
     {
